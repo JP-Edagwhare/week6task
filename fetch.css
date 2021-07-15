@@ -1,0 +1,29 @@
+#mainProfile{
+    display: grid;
+    place-content: center;
+    margin-top: 20px;
+}
+.profileImg{
+    border-radius: 50%;
+}
+
+.maincard{
+    max-width: 700px;
+    padding:10px;
+    box-shadow: 5px 10px 15px silver;
+}
+
+h5{
+    color: coral;
+    font-size: 30px;
+}
+p{
+    color: coral;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+span{
+    font-size: 20px;
+    font-weight: bold;
+}

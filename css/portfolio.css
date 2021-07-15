@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+body{
+background: url(/images/abstract-sharp-metallic-frame-red-260nw-508923031.webp);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%;
+width: 100%;
+padding: 3%;
+color: rgb(80, 3, 3);
+}
+.container-fluid{
+    background-color: rgba(255, 255, 255, 0.739);
+    height: 100%;
+    width: 100%;
+}
+
+.image-fluid{
+    border-radius: 50%;
+    width: 20%; 
+    height: 15em; 
+    z-index: 1; 
+    margin-top: -10%;
+}
+
+#header{
+    background-image: url(/images/bg-body.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.prof-img{
+    background-color: red;
+}
